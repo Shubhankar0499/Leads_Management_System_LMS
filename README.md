@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LDM — Lead Dashboard System
 
 A production-grade **Leads Management UI** built with Next.js, TypeScript, and Tailwind CSS — architected using **Clean Architecture** principles.
@@ -94,3 +95,6 @@ __tests__/         → Unit tests (Jest + ts-jest)
 - **Zod** (schema validation)
 - **Jest + ts-jest** (unit testing)
 - **uuid** (unique ID generation)
+=======
+# Leads_Management_System_LMS
+>>>>>>> 2ccf986b0b4788457f2c54ed9e253b32dd5b22f6
