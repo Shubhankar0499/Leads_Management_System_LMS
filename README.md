@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LDM — Lead Dashboard System
 
 A production-grade **Leads Management UI** built with Next.js, TypeScript, and Tailwind CSS — architected using **Clean Architecture** principles.
