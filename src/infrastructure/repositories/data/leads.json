@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@techcorp.in",
+    "company": "TechCorp India",
+    "phone": "+91-9876543210",
+    "status": "new",
+    "createdBy": "system",
+    "createdOn": "2026-01-15T09:00:00.000Z",
+    "updatedBy": "system",
+    "updatedOn": "2026-01-15T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Priya Patel",
+    "email": "priya.patel@innovate.in",
+    "company": "Innovate Solutions",
+    "phone": "+91-9823456789",
+    "status": "contacted",
+    "createdBy": "system",
+    "createdOn": "2026-01-20T10:30:00.000Z",
+    "updatedBy": "admin",
+    "updatedOn": "2026-02-01T11:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Amit Desai",
+    "email": "amit.desai@startupx.in",
+    "company": "StartupX",
+    "phone": "+91-9765432109",
+    "status": "qualified",
+    "createdBy": "system",
+    "createdOn": "2026-02-05T08:00:00.000Z",
+    "updatedBy": "admin",
+    "updatedOn": "2026-02-10T09:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.kulkarni@pune.in",
+    "company": "Pune Digital",
+    "phone": "+91-9654321098",
+    "status": "lost",
+    "createdBy": "system",
+    "createdOn": "2026-02-12T14:00:00.000Z",
+    "updatedBy": "admin",
+    "updatedOn": "2026-02-15T16:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Vikram Mehta",
+    "email": "vikram.mehta@globaltech.in",
+    "company": "Global Tech",
+    "phone": "+91-9543210987",
+    "status": "new",
+    "createdBy": "system",
+    "createdOn": "2026-03-01T10:00:00.000Z",
+    "updatedBy": "system",
+    "updatedOn": "2026-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@mumbai.in",
+    "company": "Mumbai Ventures",
+    "phone": "+91-9432109876",
+    "status": "contacted",
+    "createdBy": "system",
+    "createdOn": "2026-03-10T11:00:00.000Z",
+    "updatedBy": "admin",
+    "updatedOn": "2026-03-15T12:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Rohan Joshi",
+    "email": "rohan.joshi@bangalore.in",
+    "company": "Bangalore Labs",
+    "phone": "+91-9321098765",
+    "status": "qualified",
+    "createdBy": "system",
+    "createdOn": "2026-03-20T09:00:00.000Z",
+    "updatedBy": "admin",
+    "updatedOn": "2026-03-25T10:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Kavya Reddy",
+    "email": "kavya.reddy@hyderabad.in",
+    "company": "Hyderabad Systems",
+    "phone": "+91-9210987654",
+    "status": "new",
+    "createdBy": "system",
+    "createdOn": "2026-04-01T08:00:00.000Z",
+    "updatedBy": "system",
+    "updatedOn": "2026-04-01T08:00:00.000Z"
+  }
+]
